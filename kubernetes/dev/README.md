@@ -1,8 +1,18 @@
+# Kubernetes-dev
+
+### Contents
+- [Kuberntes Dev](#kubernetes-dev)
+    - [Getting Started](#getting-started)
+    - [Kubernetes APIs](#kubernetes-apis)
+    - [Kubernetes Clients](#kubernetes-clients)
+    - [Introduction to client-go](#introduction-to-client-go)
+    - [Informers](#informers)
+
 ## Getting started
 
 Highly recommended read: https://github.com/jamiehannaford/what-happens-when-k8s
 
-### Kubernetes APIs
+## Kubernetes APIs
 - K8s Objects (https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
   - TypeMeta
   - ObjectMeta
@@ -12,12 +22,11 @@ Highly recommended read: https://github.com/jamiehannaford/what-happens-when-k8s
 - Accessing K8s resource with REST API
 
 References:
-
 - https://medium.com/programming-kubernetes/building-stuff-with-the-kubernetes-api-1-cc50a3642 
 - https://kubernetes.io/docs/reference/using-api/api-overview/
 - https://kubernetes.io/docs/concepts/overview/kubernetes-api/ 
 
-### Kubernetes Clients
+## Kubernetes Clients
 - Interacting K8s API Server with client
 
 References:
@@ -63,14 +72,12 @@ Exercise:
 Write a Go program using client-go to create, update and delete a Statefulset
 
 
-### Informers
+## Informers
 - Shared informers
 - Event Handlers
 - Work Queues
 
 References:
-
 - https://medium.com/@muhammet.arslan/write-your-own-kubernetes-controller-with-informers-9920e8ab6f84
 - https://gianarb.it/blog/kubernetes-shared-informer 
 - https://godoc.org/k8s.io/client-go/informers
-
