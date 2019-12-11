@@ -14,6 +14,7 @@
     - [Running workloads to completion](#running-workloads-to-completion)
     - [TLS & Certificates](#tls-and-cerificates)
     - [Deployment and packaging of manifests](#deployment-and-packaging-of-manifests)
+    - [Developing with Kubernetes](https://github.com/infracloudio/citadel/tree/master/kubernetes/dev)
 
 ## Pod 
 - InitContainers. 
