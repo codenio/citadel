@@ -42,7 +42,7 @@ References:
 
   Contains HTTP client interfaces to call Get/List/Create/Patch/Delete methods on API Server (Client Set)
 
-- API types (https://godoc.org/k8s.io/client-go)
+- API types (https://godoc.org/k8s.io/api)
 
   Contains Go types (structs) for K8s objects like - pods, services, deployment, etc
 
