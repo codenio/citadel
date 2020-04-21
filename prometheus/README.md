@@ -96,4 +96,5 @@
 - [Understanding CPU usage](https://www.robustperception.io/understanding-machine-cpu-usage)
 - [Infracloud blog - Monitoring Kubernetes with Prometheus operator](https://www.infracloud.io/monitoring-kubernetes-prometheus/) [(git repo)](https://github.com/kanuahs/prometheus-operator-demo)
 - [Using the Prometheus Operator Helm chart with a values.yaml override](https://github.com/kanuahs/sock-shop-prometheus-operator)
-[PromQL for Mere Mortals](https://www.youtube.com/watch?v=hTjHuoWxsks) (a very good beginner friendly overview to PromQL with gotchas)
+- [PromQL for Mere Mortals](https://www.youtube.com/watch?v=hTjHuoWxsks) (a very good beginner friendly overview to PromQL with gotchas)
+- [Intro + Deep Dive: Prometheus](https://www.youtube.com/watch?v=9GMWvFcQjYI) (a high level overview of Prometheus from the official maintainers. Talk ends at 22:00. Q&A can be skipped)
